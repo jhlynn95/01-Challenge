@@ -17,7 +17,8 @@
 * Added Website preview to README.md 
 
 ## URL 
-* 
+* https://jhlynn95.github.io/horiSEOn-C1/
+*
 
 ## MIT License
 
