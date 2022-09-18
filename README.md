@@ -1,5 +1,14 @@
 ![image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)
 
+# Challeng 1
+
+## Description
+
+* In this project I applied skills that I have learned in the pre-work, class, and outside reading
+* Objective of this assignment was to help strengthen my skills to the on going path of becoming a developer
+* I learned how to do refacter, how to check that the changes I have made were applied and functioning. Including how to reach
+  out for help when Ive come to a stand still and to use my resources.
+
 ## Changes Made
 * Refracted the HTML and CSS text
 * Ensured all links were operational
@@ -7,41 +16,30 @@
 * Added alt text for screen reader software
 * Added Website preview to README.md 
 
-  * Application's CSS file is properly commented.
+## URL 
+* 
 
-### Deployment: 32%
+## MIT License
 
-* Application deployed at live URL.
+Copyright (c) 2022 Jessica Hickman
 
-* Application loads with no errors.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-* Application GitHub URL submitted.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-* GitHub repository contains application code.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-### Application Quality: 15%
-
-* Application resembles mock-up provided in the Challenge instructions (at least 90%).
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Horiseon has rights to website
