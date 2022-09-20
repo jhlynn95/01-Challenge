@@ -17,8 +17,8 @@
 * Added Website preview to README.md 
 
 ## URL 
-*page: https://jhlynn95.github.io/horiSEOn-C1/
-*github: https://github.com/jhlynn95/horiSEOn-C1
+* Page: https://jhlynn95.github.io/horiSEOn-C1/
+* Github: https://github.com/jhlynn95/horiSEOn-C1
 
 ## MIT License
 
